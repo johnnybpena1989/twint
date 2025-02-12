@@ -1,7 +1,7 @@
 aiohttp
 aiodns
 beautifulsoup4
-cchardet
+charset-normalizer
 dataclasses
 elasticsearch
 pysocks
@@ -11,3 +11,14 @@ schedule
 geopy
 fake-useragent
 googletransx
+flask
+nest-asyncio
+elasticsearch
+charset-normalizer
+requests
+aiohttp==3.7.4
+aiohttp_socks==0.4.1
+requests
+elasticsearch
+nest-asyncio
+
